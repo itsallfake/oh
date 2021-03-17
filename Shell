@@ -3,7 +3,7 @@ bold=$(tput bold)
 $Red=$'\e[1;31m'
 $Green=$'\e[1;32m'
 echo " "
-getprop | grep -e 'model' -e 'version.sdk' -e 'manufacturer' -e 'platform' -e 'product.name' -e 'brand' | lolcat
+neofetch | lolcat
 toilet -f pagga Offensive Hacks | lolcat
 echo " "
 echo " "
@@ -12,7 +12,7 @@ echo " $Green 1.) KR"
 echo " $Green 2.) GL"
 echo " $Green 3.) TW"
 echo " $Green 4.) VN"
-echo " 2 "
+echo " $bold>> 2 "
 toilet -f future Global PUBG | lolcat
 echo " "
 toilet Activating Antiban -f wideterm | lolcat
@@ -27,4 +27,4 @@ toilet Restoring Original State -f wideterm | lolcat
 echo " "
 echo " ${bold} Restore Complete "
 echo " "
-toilet Contact TG : @BabaBhayanak if any issue -f wideterm | lolcat
+toilet Contact TG : @BabaBhayanak if any issue -f term | lolcat
