@@ -1,0 +1,30 @@
+clear
+bold=$(tput bold)
+$Red=$'\e[1;31m'
+$Green=$'\e[1;32m'
+echo " "
+getprop | grep -e 'model' -e 'version.sdk' -e 'manufacturer' -e 'platform' -e 'product.name' -e 'brand' | lolcat
+toilet -f pagga Offensive Hacks | lolcat
+echo " "
+echo " "
+echo " $Red Choose Option : "
+echo " $Green 1.) KR"
+echo " $Green 2.) GL"
+echo " $Green 3.) TW"
+echo " $Green 4.) VN"
+echo " 2 "
+toilet -f future Global PUBG | lolcat
+echo " "
+toilet Activating Antiban -f wideterm | lolcat
+echo " "
+toilet Launching PUBG GL -f wideterm | lolcat
+echo " "
+echo " ${bold}Cleaning Logs and residue Files in Background "
+echo " "
+echo " ${bold}Total Play Time = 4h 34m "
+echo " "
+toilet Restoring Original State -f wideterm | lolcat
+echo " "
+echo " ${bold} Restore Complete "
+echo " "
+toilet Contact TG : @BabaBhayanak if any issue -f wideterm | lolcat
